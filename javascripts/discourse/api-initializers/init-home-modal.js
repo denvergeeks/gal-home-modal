@@ -40,7 +40,7 @@ export default apiInitializer("1.6", (api) => {
         api.renderInOutlet(settingsOutlet, homeModal); 
         
           api.addCommunitySectionLink({
-            href: "https://portal.algosec.com/community/1st-step", //forwards to https://community.algosec.com/?force=1st-step
+            href: "https://kinder.bot/?force=1st-step", //forwards to https://forum-url.org/?force=1st-step
             name: "firstStep",
             //route: "",
             text: "First Step",
