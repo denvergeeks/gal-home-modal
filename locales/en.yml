@@ -2,10 +2,10 @@ en:
   modal_data:
     title: "Community Introduction"  
   steps_titles:
-    step_1_title: "Step 1 title"    
-    step_2_title: "Step 2 title" 
-    step_3_title: "Step 3 title" 
-    step_4_title: "Step 4 title" 
+    step_1_title: "About Us"    
+    step_2_title: "About You" 
+    step_3_title: "Your Preferences" 
+    step_4_title: "What's Next?" 
   progress_bar:
     label_1: "Welcome"    
     label_2: "Profile" 
