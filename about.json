@@ -1,8 +1,8 @@
 {
-  "name": "gal-home-modal",
+  "name": "Jen's Onboarding Home Modal",
   "component": true,
-  "license_url": null,
-  "about_url": "",
+  "license_url": "https://github.com/gal-samuel-israel/gal-home-modal",
+  "about_url": "https://github.com/denvergeeks/gal-home-modal",
   "authors": "Gal Samuel (webmaster@agency.co.il)",
   "assets": {    
     "img_ico_algosec_community": "assets/img/ico-algosec-community.png",
